@@ -68,7 +68,7 @@ namespace Lab02
             float p4walkspeed = 5.5f;
             double p4runspeed = 11;
             bool isFat = true;
-            Console.WriteLine("===RPG Game Player Stat===");
+            Console.WriteLine("==== RPG GAME PLAYER STAT ====");
             Console.WriteLine($"Player 1 Name: {p1name}");
             Console.WriteLine($"Player 1 Rank: {p1rank}");
             Console.WriteLine($"HP: {MaxHp}");
